@@ -1,4 +1,4 @@
-# @migarjo
+# @seantavay
 
 | Property       | Value            |
 |:---------------|:-----------------|
